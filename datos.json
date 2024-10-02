@@ -2,6 +2,7 @@
     {
         "nombre": "Cartel Fragmnts",
         "fecha": "2023",
+        "descripcion": "Este cartel fue diseñado para un proyecto audiovisual llamado Fragmnts de la Escuela de Comunicaciones UC, para su postulación al concurso Prisma UC de cortometrajes.",
         "signo": "Diseño Grafico",
         "foto": "https://github.com/user-attachments/assets/aae8e66a-9fbe-4971-b095-025417243061",
         "github": "https://github.com/gyacometti"
@@ -9,6 +10,7 @@
     {
         "nombre": "Uywa Killpa",
         "fecha": "2022",
+        "descripcion": "Uywa Killpa es un libro infantil que fue diseñado junto a Artesanías UC y María Choque, artesana aymara, para promover el patrimonio inmaterial textil de dicho pueblo indígena",
         "signo": "Diseño Editorial",
         "foto": "https://github.com/user-attachments/assets/a3cb1173-320f-4918-a82a-b7c536b116ef",
         "github": "https://github.com/gyacometti"
@@ -16,6 +18,7 @@
     {
         "nombre": "Prima Salutis",
         "fecha": "2021",
+        "descripcion": "Prima Salutis nace desde la necesidad de un uniforme cómodo y apto para enfermeras en sus largas jornadas de trabajo. Este fue diseñado a partir de la obsersavación de sus movimientos y acciones diarias",
         "signo": "Diseño Grafico",
         "foto": "https://github.com/user-attachments/assets/8b326a9e-0027-442e-9363-5caa3c33d85c",
         "github": "https://github.com/gyacometti"
@@ -23,6 +26,7 @@
     {
         "nombre": "Infografia Lino",
         "fecha": "2023",
+        "descripcion": "Infografía explorativa sobre el textil Lino, con énfasis en sus características y riquesas como material",
         "signo": "Diseño Grafico",
         "foto": "https://github.com/user-attachments/assets/167c257b-b25e-468a-8361-ca5e064949b7",
         "github": "https://github.com/gyacometti"
@@ -30,6 +34,7 @@
     {
         "nombre": "Expo Aguita de Hierba",
         "fecha": "2023",
+        "descripcion": "Expo Aguita de Hierba es la identidad de una feria costumbrista del sur de Chile dedicada a la tradicional once chilena y el té como bebestible tradicional del país, poniendo en valor las hierbas y costumbres del territorio",
         "signo": "Diseño Grafico",
         "foto": "https://github.com/user-attachments/assets/75b04da1-a87c-43db-a04a-b903ee8ad2ae",
         "github": "https://github.com/gyacometti"
@@ -37,6 +42,7 @@
     {
         "nombre": "Ficha FIBE",
         "fecha": "2023",
+        "descripcion": "Re Diseño de la Ficha Básica de Emergencia para Ministerio de Desarrollo Social ",
         "signo": "Diseño Servicio",
         "foto": "https://github.com/user-attachments/assets/ef256a66-fb8a-4059-b42b-14e33dce49ec",
         "github": "https://github.com/gyacometti"
@@ -44,6 +50,7 @@
     {
         "nombre": "Confluencia",
         "fecha": "2023",
+        "descripcion": "Concluencia es una ruta de murales en torno al agua dirigido por la galería de arte Metro21 en conjunto con el Gobierno Regional, este proyecto es de índole participativo que culminó con una memoria editorial que recoge la experiencia de artistas y vecinos durante su realización",
         "signo": "Diseño Editorial",
         "foto": "https://github.com/user-attachments/assets/f3eafe16-b1ff-47fd-a469-7d5bdb9111e5",
         "github": "https://github.com/gyacometti"
@@ -51,6 +58,7 @@
     {
         "nombre": "Cartel La Cancion del Ciervo y el Niño",
         "fecha": "2023",
+        "descripcion":"Cartel diseñado para una obra de teatro titulada La Cancion del Ciervo y el Niño",
         "signo": "Diseño Grafico",
         "foto": "https://github.com/user-attachments/assets/0c36fbd4-ba86-401d-aae9-9395a91d72ed",
         "github": "https://github.com/gyacometti"
@@ -58,6 +66,7 @@
      {
         "nombre": "Cartel Corita Kent",
         "fecha": "2023",
+        "descripcion":"Cartel inspirado en el estilo gráfico de la diseñadora Corita Kent, caracterizada por su técnica serigráfica",
         "signo": "Diseño Grafico",
         "foto": "https://github.com/user-attachments/assets/6c0e1e32-8f8e-4170-adc0-8d3a7073fd40",
         "github": "https://github.com/gyacometti"
@@ -65,8 +74,9 @@
     {
         "nombre": "SUK",
         "fecha": "2023",
+        "descripcion":"Diseño de packaging de barquillos y actualización de catálogo de SUK durante la práctica profesional junto a OtrosPérez",
         "signo": "Diseño Grafico",
-        "foto": "https://github.com/user-attachments/assets/40cbf3d7-8400-4c4d-93ad-17cfef47546a",
+        "foto": "https://github.com/user-attachments/assets/4723d0a0-fc1d-401b-b0e5-c00b430e01e8",
         "github": "https://github.com/gyacometti"
     }
     
